@@ -6,7 +6,7 @@
 * Jacob Jameson
 * Deniz Tokmakoğlu
 
-## Overview:
+## Overview:
 Our project evaluates how changes in a proposed federal minimum wage affect welfare relative to a living wage throughout the 102 counties of Illinois.
 We use data on income and household compositions from the US Census Bureau and data on estimated living wages from MIT’s Living Wage Calculator. We account for changes in employment due to changes in the minimum wage using the US Congressional Budget Office’s (CBO’s) model, “The Effects on Employment and Family Income of Increasing the Federal Minimum Wage.”
 Run “$ . /run_model.sh” from the terminal to run the project.
