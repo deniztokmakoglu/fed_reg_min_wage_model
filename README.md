@@ -36,3 +36,6 @@ While additional robustness checks are recommended, our analysis suggests that s
 federal minimum wage.
 
 ## Software Structure:
+
+![image](software_structure.png)
+
